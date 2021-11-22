@@ -6,10 +6,10 @@ function Portfolio() {
   // Replace links with deployed projects and GitHub repos
   const [projects] = useState([
     {
-      name: 'surf-report',
-      description: 'MERN Stack',
-      link: "https://github.com",
-      repo: "https://github.com"
+      name: 'All Things Pets',
+      description: 'MySQL project with Sequelize and handlebars',
+      link: "https://vast-retreat-92642.herokuapp.com/",
+      repo: "https://github.com/gabrielcalk/all_things_pets"
     },
     {
       name: 'pastel-puzzels',
