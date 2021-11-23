@@ -5,7 +5,7 @@ function Resume() {
     <section className="my-5">
       <div className="my-2">
       <p>
-        Download my <a href="/Brent_Graves_Resume.PDF">Resume</a>
+        Download my <a href="https://grave019.github.io/ProfessionalPortfolio/assets/resume/Brent_Graves_Resume.PDF">Resume</a>
         </p>
         <h3>Front-end Proficiencies</h3>
         <ul className="skills">
