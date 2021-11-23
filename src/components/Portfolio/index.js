@@ -6,7 +6,7 @@ function Portfolio() {
   // Replace links with deployed projects and GitHub repos
   const [projects] = useState([
     {
-      name: 'All Things Pets',
+      name: 'All-Things-Pets',
       description: 'MySQL project with Sequelize and handlebars',
       link: "https://vast-retreat-92642.herokuapp.com/",
       repo: "https://github.com/gabrielcalk/all_things_pets"
