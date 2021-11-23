@@ -6,34 +6,40 @@ function Portfolio() {
   // Replace links with deployed projects and GitHub repos
   const [projects] = useState([
     {
-      name: 'allthingspets',
-      description: 'MySQL project with Sequelize and handlebars',
+      name: 'all-things-pets',
+      description: 'MySQL Database project with Sequelize and handlebars',
       link: "https://vast-retreat-92642.herokuapp.com/",
       repo: "https://github.com/gabrielcalk/all_things_pets"
     },
     {
-      name: 'pastel-puzzels',
-      description: 'MERN Stack',
-      link: "https://github.com",
-      repo: "https://github.com"
+      name: 'marvelous-battles',
+      description: 'Front-End Group Web Application Utilizing 2 APIs',
+      link: "https://gabrielcalk.github.io/marvelous_dc/",
+      repo: "https://github.com/gabrielcalk/marvelous_dc"
     },
     {
-      name: 'run-buddy',
-      description: 'HTML/CSS',
-      link: "https://github.com",
-      repo: "https://github.com"
+      name: 'employee-tracker',
+      description: 'Command line application that allows the user to manage employees. Utilizing mySQL, Node, Inquirer',
+      link: "https://github.com/grave019/employee-tracker",
+      repo: "https://github.com/grave019/employee-tracker"
     },
     {
-      name: 'led-wall',
-      description: 'Node/IoT',
-      link: "https://github.com",
-      repo: "https://github.com"
+      name: 'budget-tracker',
+      description: 'WPA utilizing online and offline functionality',
+      link: "https://floating-river-46763.herokuapp.com/",
+      repo: "https://github.com/grave019/budget_tracker"
     },
     {
-      name: 'calculator',
-      description: 'React/JavaScript/CSS',
-      link: "https://github.com",
-      repo: "https://github.com"
+      name: 'fitness-tracker',
+      description: 'Front End Fitness tracker connected to a Mongo Database with a Mongoose Schema.',
+      link: "https://thawing-lowlands-12191.herokuapp.com/stats",
+      repo: "https://github.com/grave019/track_your_fitness"
+    },
+    {
+      name: 'MVC-tech-blog',
+      description: 'Creating a tech blog with MVC layout to connect to a mySQL Database. Built with mySQL, Sequelize, express, Handlebars and dotenv.',
+      link: "https://ghastly-citadel-78278.herokuapp.com/",
+      repo: "https://github.com/grave019/MVC-tech-blog"
     },
   ]);
 
