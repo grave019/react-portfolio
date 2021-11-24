@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/react-portfolio/static/css/main.86407b46.chunk.css",
+    "main.js": "/react-portfolio/static/js/main.3a91f083.chunk.js",
+    "main.js.map": "/react-portfolio/static/js/main.3a91f083.chunk.js.map",
+    "runtime-main.js": "/react-portfolio/static/js/runtime-main.1d992053.js",
+    "runtime-main.js.map": "/react-portfolio/static/js/runtime-main.1d992053.js.map",
+    "static/js/2.102548e6.chunk.js": "/react-portfolio/static/js/2.102548e6.chunk.js",
+    "static/js/2.102548e6.chunk.js.map": "/react-portfolio/static/js/2.102548e6.chunk.js.map",
+    "index.html": "/react-portfolio/index.html",
+    "precache-manifest.0b92ca8006848a19a629e4cf74244e78.js": "/react-portfolio/precache-manifest.0b92ca8006848a19a629e4cf74244e78.js",
+    "service-worker.js": "/react-portfolio/service-worker.js",
+    "static/css/main.86407b46.chunk.css.map": "/react-portfolio/static/css/main.86407b46.chunk.css.map",
+    "static/js/2.102548e6.chunk.js.LICENSE.txt": "/react-portfolio/static/js/2.102548e6.chunk.js.LICENSE.txt",
+    "static/media/MVC-tech-blog.jpg": "/react-portfolio/static/media/MVC-tech-blog.788d7c80.jpg",
+    "static/media/all-things-pets.jpg": "/react-portfolio/static/media/all-things-pets.1e22203d.jpg",
+    "static/media/budget-tracker.jpg": "/react-portfolio/static/media/budget-tracker.673a839f.jpg",
+    "static/media/cover-image.jpg": "/react-portfolio/static/media/cover-image.402a471b.jpg",
+    "static/media/employee-tracker.jpg": "/react-portfolio/static/media/employee-tracker.07fed0b7.jpg",
+    "static/media/fitness-tracker.jpg": "/react-portfolio/static/media/fitness-tracker.ec2f4379.jpg",
+    "static/media/marvelous-battles.jpg": "/react-portfolio/static/media/marvelous-battles.b7fb616b.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.1d992053.js",
+    "static/js/2.102548e6.chunk.js",
+    "static/css/main.86407b46.chunk.css",
+    "static/js/main.3a91f083.chunk.js"
+  ]
+}
