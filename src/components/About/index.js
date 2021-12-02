@@ -13,6 +13,7 @@ function About() {
         <p>
         For the last 8 years I have managed overseeing the collection of 12 million dollars of accounts recievable overseeing 5 collectors at Wayne's Auto Sales in Birmingham, Alabama. I recently moved to Orlando, Florida. After 9 years at Waynes Auto Sales, I decided on a career change that would challenge my creativity and intellect. I enrolled in University of Central Florida's Coding Bootcamp. My life experience has prepared me for any challenges that I may face. I believe I will be an asset to your team and look forward to working with you.
         </p>
+        <p>I will continue to make changes to this page in the coming weeks to display new projects I will be working on!</p>
       </div>
     </section>
   );
