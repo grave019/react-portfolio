@@ -4,14 +4,14 @@ main {
   padding: 50px 30px;
 }
 :root {
-  --primary: #8c54ff;
-  --secondary: #31343d;
-  --tertiary: #b12704;
-  --light: #fafafa;
-  --dark: #799fba;
-  --darker: #1f3b60;
-  --alpha: hsla(0, 0%, 100%, 0.7);
-  --error: #e42e01;
+  --primary: #522ba0;
+  --secondary: #33343a;
+  --tertiary: #80230c;
+  --light: #e9e0e0;
+  --dark: #5b7e97;
+  --darker: #273c57;
+  --alpha: hsla(0, 3%, 60%, 0.7);
+  --error: #c23a18;
   --spacing-one: 0.5rem;
   --spacing-two: 1rem;
   --spacing-five: 2.5rem;
@@ -318,7 +318,7 @@ textarea {
 .project-text a {
   text-decoration: none;
   font-weight: 700;
-  color: #799fba;
+  color: #4b6c83;
   color: var(--dark);
   transition: all .3s ease-in-out;
 }
