@@ -41,6 +41,12 @@ function Portfolio() {
       link: "https://ghastly-citadel-78278.herokuapp.com/",
       repo: "https://github.com/grave019/MVC-tech-blog"
     },
+    {
+      name: 'Hungr',
+      description: 'MERN Stack Group Project, Utilizing MongoDB, Express, React, Node, and Handlebars, and Agile Software Development.',
+      link: "https://hungr-project.herokuapp.com/",
+      repo: "https://github.com/gabrielcalk/hungr"
+    },
   ]);
 
   return (
