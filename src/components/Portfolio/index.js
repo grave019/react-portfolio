@@ -43,7 +43,7 @@ function Portfolio() {
     },
     {
       name: 'Hungr',
-      description: 'MERN Stack Group Project, Utilizing MongoDB, Express, React, Node, and Handlebars, and Agile Software Development.',
+      description: 'MERN Stack Group Project, Utilizing MongoDB, Express, React, Node, and Agile Software Development Methodology.',
       link: "https://hungr-project.herokuapp.com/",
       repo: "https://github.com/gabrielcalk/hungr"
     },
