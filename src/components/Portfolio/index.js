@@ -42,7 +42,7 @@ function Portfolio() {
       repo: "https://github.com/grave019/MVC-tech-blog"
     },
     {
-      name: 'Hungr',
+      name: 'hungr-food-app',
       description: 'MERN Stack Group Project, Utilizing MongoDB, Express, React, Node, and Agile Software Development Methodology.',
       link: "https://hungr-project.herokuapp.com/",
       repo: "https://github.com/gabrielcalk/hungr"
